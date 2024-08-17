@@ -5,7 +5,7 @@ An application that helps me practice common software algorithms, patterns, and 
 - [x] Build MVP Api
 - [ ] Setup Connection to Db
   - [x] Scaffold current db
-  - [ ] Create initial migration
+  - [ ] Use connection string from configuration
 - [ ] Build MVP UI
 - [ ] Display data from DB in UI
 - [ ] Deploy site
